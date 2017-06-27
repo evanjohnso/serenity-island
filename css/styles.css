@@ -26,10 +26,14 @@ p {
   font-family: sans-serif;
 }
 
-ul {
-  font-family: sans-serif;
-  list-style-type: none;
+/*
+#menu {
+  background-color: #129524;
+  margin-left: 35%;
+  margin-right: 35%;
+  border-radius: 10%;
 }
+*/
 
 
 a {
