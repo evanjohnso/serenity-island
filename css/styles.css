@@ -22,6 +22,12 @@ h1 {
 
 }
 
+#cabin {
+  height: 400px;
+  width: 700px;
+  border-radius: 5%;
+}
+
 p {
   font-family: sans-serif;
 }
